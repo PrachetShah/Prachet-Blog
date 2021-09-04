@@ -14,5 +14,5 @@
 	<li>Flask Flashcard warnings on entering incorrect Login Details&nbsp;</li>
 	<li>Redirects to Login Page when previous users tries to Register Again</li>
 </ul>
-<a href="https://prachet-blog.herokuapp.com/">Website Link</a>
+<h2><a href="https://prachet-blog.herokuapp.com/">Website Link</a></h2>
 
