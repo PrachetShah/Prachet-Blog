@@ -14,5 +14,5 @@
 	<li>Flask Flashcard warnings on entering incorrect Login Details&nbsp;</li>
 	<li>Redirects to Login Page when previous users tries to Register Again</li>
 </ul>
-![Website](https://ibb.co/3mQNrbg)
+![Website](https://github.com/PrachetShah/Prachet-Blog/blob/main/Blog Site.PNG?raw=true)
 <!-- <a href="https://drive.google.com/file/d/1-8jNHBlKSXyiBrk4DAVWvSxBxH1b3IFF/view?usp=sharing"><img alt="" src="https://drive.google.com/file/d/1-8jNHBlKSXyiBrk4DAVWvSxBxH1b3IFF/view?usp=sharing" /></a> -->
