@@ -1,7 +1,7 @@
 # Prachet-Blog
 <h1>Blog Web Application created using Flask</h1>
 
-<p>Hello, this is a web app created using Flask Framework hosted on Heroku from GitHub working on gunicorn server.</p>
+<p>This is a web app created using Flask Framework hosted on Heroku from GitHub working on gunicorn server.</p>
 
 <h2>Features:</h2>
 
